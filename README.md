@@ -9,6 +9,7 @@ This repository serves as a portfolio and learning archive for my web developmen
 ## Projects Included
 - <b>Cat Photo App</b>
 - <b>Piano</b>
+- <b>CafeMenu</b>
 </br></br>
 ## Technologies Used
 - HTML5 – Structure and semantics of web pages
