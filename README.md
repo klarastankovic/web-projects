@@ -11,6 +11,7 @@ This repository serves as a portfolio and learning archive for my web developmen
 - <b>Piano</b>
 - <b>Cafe Menu</b>
 - <b>Photo Gallery</b>
+- <b>Set of Colored Markers</b>
 </br></br>
 ## Technologies Used
 - HTML5 – Structure and semantics of web pages
